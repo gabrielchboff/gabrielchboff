@@ -20,6 +20,8 @@
 </br>
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielchboff&show_icons=true&theme=radical)
+&nbsp;&nbsp;
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=gabrielchboff&theme=radical&&row=2&column=3)](https://github.com/gabrielchboff/github-profile-trophy)
 
 
