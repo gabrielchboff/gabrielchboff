@@ -9,7 +9,6 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/gabrielchboff#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/gabrielchboff#gh-dark-mode-only)
 
-<\br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielchboff&layout=compact&theme=radical)](https://github.com/gabrielchboff/github-readme-stats)
 &nbsp;&nbsp;
