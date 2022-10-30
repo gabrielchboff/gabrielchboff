@@ -15,6 +15,6 @@
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielchboff&layout=compact&theme=radical)](https://github.com/gabrielchboff/github-readme-stats)
 </br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=gabrielchboff&theme=radical)](https://github.com/gabrielchboff/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gabrielchboff&theme=radical&&row=2&column=3)](https://github.com/gabrielchboff/github-profile-trophy)
 </br>
 
