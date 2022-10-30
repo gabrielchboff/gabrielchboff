@@ -1,12 +1,10 @@
 # Hi there! I'm Gabriel 👋
 
---
 
 ### Contact me:
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/_gabriel_boff#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/_gabriel_boff#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/gabrielchboff#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/gabrielchboff#gh-dark-mode-only)
 
