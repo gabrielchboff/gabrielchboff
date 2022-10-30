@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi there! I'm Gabriel 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,3 +11,4 @@ Here are some ideas to get you started:
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielchboff&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielchboff&layout=compact&theme=radical)](https://github.com/gabrielchboff/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gabrielchboff&theme=onedark)](https://github.com/gabrielchboff/github-profile-trophy)
