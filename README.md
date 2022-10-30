@@ -16,9 +16,6 @@
 </br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielchboff&theme=radical)](https://git.io/streak-stats)
-
-</br>
-
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielchboff&show_icons=true&theme=radical)
 &nbsp;&nbsp;
 
