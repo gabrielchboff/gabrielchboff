@@ -1,4 +1,4 @@
-### Hi there! I'm Gabriel 👋
+# Hi there! I'm Gabriel 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,6 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielchboff&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielchboff&layout=compact&theme=radical)](https://github.com/gabrielchboff/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=gabrielchboff&theme=radical)](https://github.com/gabrielchboff/github-profile-trophy)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielchboff&show_icons=true&theme=radical)__
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielchboff&layout=compact&theme=radical)](https://github.com/gabrielchboff/github-readme-stats)__
+[![trophy](https://github-profile-trophy.vercel.app/?username=gabrielchboff&theme=radical)](https://github.com/gabrielchboff/github-profile-trophy)__
