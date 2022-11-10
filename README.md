@@ -4,8 +4,6 @@ Welcome to my Github! Here we have some dreans becoming reality. I'm a Full-stac
 
 ### Contact me:
 
-[![website](./img/instagram-light.svg)](https://instagram.com/_gabriel_boff#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/_gabriel_boff#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/gabrielchboff#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/gabrielchboff#gh-dark-mode-only)
