@@ -2,11 +2,6 @@
 
 Welcome to my Github! Here we have some dreans becoming reality. I'm a Full-stack developer foccused to increse the velocity and flow of application through low level languages.
 
-### Contact me:
-
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/gabrielchboff#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/gabrielchboff#gh-dark-mode-only)
 
 ## 📈 Github Stats
 
