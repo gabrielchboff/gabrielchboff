@@ -1,6 +1,6 @@
 # Hi there! I'm Gabriel 👋
 
-Welcome to my Github! Here we have some dreans becoming reality. I'm a Full-stack developer foccused to increse the velocity and flow of application through low level languages.
+Welcome to my GitHub! Here we have some dreams becoming reality. I'm a Full-stack developer focused to increase the velocity and flow of applications through low-level languages.
 
 
 ## 📈 Github Stats
@@ -15,6 +15,8 @@ Welcome to my Github! Here we have some dreans becoming reality. I'm a Full-stac
 
 ## IDE
 <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"> 
+<img src="https://img.shields.io/badge/Helix-%2357A143.svg?&style=for-the-badge&logo=helix&logoColor=white">
+<img src="https://img.shields.io/badge/VisualStudioCode-%2357A143.svg?&style=for-the-badge&logo=vscode&logoColor=white"> 
 
 ## OS
 <img src="https://img.shields.io/badge/fedora-0078D6?style=for-the-badge&logo=fedora&logoColor=white"><img src="https://img.shields.io/badge/Debian-1793D1?logo=debian&logoColor=c70036&style=for-the-badge"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"><img src="https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
