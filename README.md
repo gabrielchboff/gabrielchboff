@@ -1,6 +1,6 @@
 # Hi there! I'm Gabriel 👋
 
-Welcome to my GitHub! Here we have some dreams becoming reality. I'm a Full-stack developer focused to increase the velocity and flow of applications through low-level languages.
+Full-Stack Developer focused on safe and fast web applications. Oriented by ethical hacking development and the best practices of clean and rapid development.
 
 
 ## 📈 Github Stats
