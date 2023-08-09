@@ -8,7 +8,7 @@ Hi! I’m Gabriel and I’m looking to grow up my career and increase my skills.
 
 </br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielchboff&theme=radical)](https://git.io/streak-stats)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielchboff&show_icons=true)
 
 
 ## IDE
