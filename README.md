@@ -4,11 +4,11 @@ Hi! I’m Gabriel and I’m looking to grow up my career and increase my skills.
 
 ## 📈 Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielchboff&layout=compact&theme=radical)](https://github.com/gabrielchboff/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielchboff&layout=compact&theme=radical)](https://github.com/gabrielchboff/github-readme-stats)
 
 </br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielchboff&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielchboff&theme=radical)](https://git.io/streak-stats)
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielchboff&show_icons=true&theme=radical)
 
 
