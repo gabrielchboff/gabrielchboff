@@ -1,7 +1,6 @@
 # Hi there! I'm Gabriel 👋
 
-Full-Stack Developer focused on safe and fast web applications. Oriented by ethical hacking development and the best practices of clean and rapid development.
-
+Hi! I’m Gabriel and I’m looking to grow up my career and increase my skills. I’m currently working as a back-end developer in an internship. I have 3 years of work experience and 5 years of studying development. I learned to be patient and share the knowledge that I have with others. Also, from logic, insights, and pragmatism, I know that I am creating something new using these skills that I mentioned. During my career I experienced a lot of opportunities to learn, working for startups and great companies. 
 
 ## 📈 Github Stats
 
