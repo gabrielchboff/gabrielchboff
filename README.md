@@ -4,7 +4,7 @@ Hi! I’m Gabriel and I’m looking to grow up my career and increase my skills.
 
 ## 📈 Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielchboff&layout=compact&theme=radical)](https://github.com/gabrielchboff/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielchboff&layout=compact&theme=radical)
 
 </br>
 
