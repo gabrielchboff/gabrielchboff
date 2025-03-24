@@ -4,15 +4,6 @@
     🚀 Passionate Software Developer | 💡 Open Source Contributor | 🎯 Lifelong Learner
 </p>
 
-<p align="center">
-    <a href="https://github.com/gabrielchboff">
-        <img src="https://img.shields.io/github/followers/gabrielchboff?label=Followers&style=social" alt="GitHub Followers">
-    </a>
-    <a href="https://github.com/gabrielchboff">
-        <img src="https://img.shields.io/github/stars/gabrielchboff?affiliations=OWNER&style=social" alt="GitHub Stars">
-    </a>
-</p>
-
 ---
 
 ## 🚀 About Me
