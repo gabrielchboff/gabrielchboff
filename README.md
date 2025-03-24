@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working at **Softbus Consultoria e Sistemas**
-- 🎯 I specialize in **Python, C#, Java ,Web Development**
+- 🎯 I specialize in **Python, C#, Java , Rust, Web Development**
 - 🤝 I’m open to **collaborations on open-source projects**
 - 📫 Reach me via **[LinkedIn](https://www.linkedin.com/in/gabrielchboff/)**
 
