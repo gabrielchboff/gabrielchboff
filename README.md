@@ -1,5 +1,49 @@
-# Hi there! I'm Gabriel 👋
+<h1 align="center">👋 Hello, I'm Gabriel Boff!</h1>
 
-Hi! I’m Gabriel and I’m looking to grow my career and increase my skills. I have 4 years of work experience and 5 years of studying development. I learned to be patient and share my knowledge with others. Also, from logic, insights, and pragmatism, I know that I am creating something new using these skills that I mentioned. During my career I experienced a lot of opportunities to learn, working for startups and great companies. 
+<p align="center">
+    🚀 Passionate Software Developer | 💡 Open Source Contributor | 🎯 Lifelong Learner
+</p>
 
+<p align="center">
+    <a href="https://github.com/gabrielchboff">
+        <img src="https://img.shields.io/github/followers/gabrielchboff?label=Followers&style=social" alt="GitHub Followers">
+    </a>
+    <a href="https://github.com/gabrielchboff">
+        <img src="https://img.shields.io/github/stars/gabrielchboff?affiliations=OWNER&style=social" alt="GitHub Stars">
+    </a>
+</p>
 
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently working at **Softbus Consultoria e Sistemas**
+- 🎯 I specialize in **Python, C#, Java ,Web Development**
+- 🤝 I’m open to **collaborations on open-source projects**
+- 📫 Reach me via **[LinkedIn](https://www.linkedin.com/in/gabrielchboff/)**
+
+---
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=gabrielchboff&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielchboff&theme=dark" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielchboff&theme=dark&layout=compact)
+
+---
+
+## 🌎 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielchboff/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielchboff)
+
+---
